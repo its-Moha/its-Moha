@@ -3,6 +3,8 @@
          height="45"
          width="45" /> I'm Mohamed Hassan</h1>
          
+         Hola, iam a passionate Android Engineer. I enjoy learning new things. Let's connect. 
+         
 # 💫😎 About Me :
 - 😄 You can call me Mo
 - 🔭 I’m currently working on Personal Projects
